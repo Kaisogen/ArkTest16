@@ -7,5 +7,7 @@ int main() {
   printf("To compile this again, type\n\n");
   
   printf("gcc main.c -o app.out");
+  
+  return(0);
 
 }
